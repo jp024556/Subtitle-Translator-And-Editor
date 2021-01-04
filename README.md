@@ -4,4 +4,4 @@ This will translate and edit your movie subtitles using JavaScript with the help
 ## Requirements
 => No database needed, just copy source code and start running your website.
 
-=> Edit the files wherever needed because I have simply cleaned the code of my existing website and put it here.
+=> Edit the files wherever needed because I have simply cleaned the code of my existing website and put them here.
